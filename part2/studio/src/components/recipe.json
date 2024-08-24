@@ -1,17 +1,20 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Asian Cucumber Salad",
+     "author": "Farah J Eats",
+     "description": "Easy, Spicy and Tangy",
+     "website": "https://farahjeats.com/recipe/easy-asian-cucumber-salad/",
+     "recipeImage": "https://farahjeats.com/wp-content/uploads/2021/11/IMG_7775_jpg-1024x1024.jpg",
+     "authorImage": "https://farahjeats.com/wp-content/uploads/2021/05/IMG_7752.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "5 Persian cucumbers",
+       "3/4 tbsp Soy sauce",
+       "1 tbsp Chili oil",
+       "1/2 tsp Salt",
+       "1/2 tbsp Sesame seeds",
+       "1 tbsp Sugar",
+       "3/4 tbsp Rice vinegar",
+       "1/2 tbsp Sesame oil"
      ]
    }
  ]
