@@ -1,7 +1,7 @@
-import recipedata from "./recipe.json";
+import recipeData from "./recipe.json";
 
 function RecipeName() {
-  const recipeName = recipedata[0].name;
+  const recipeName = recipeData[0].name;
   return <h1>{recipeName}</h1>;
 }
 
